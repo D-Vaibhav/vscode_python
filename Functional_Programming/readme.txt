@@ -1,2 +1,0 @@
-- ideally we try to work with immutable DS because they prevent data modifications
-- multi-threading suits best for immutable DS
